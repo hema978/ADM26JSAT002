@@ -1,0 +1,5 @@
+bank
+bank name 
+ciusstomer name
+bank type
+bank account
